@@ -74,7 +74,7 @@ button:active {
 .resultado {
     color: #9e89f8;
     font-weight: bold;
-    font-size: 8px;
+    font-size: 15px;
     margin-bottom: 2px;
     display: none;
 }
